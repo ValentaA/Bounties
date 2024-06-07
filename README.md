@@ -9,7 +9,7 @@ Bug bounty management system
 
 Instructions:
 
-Clone the Bounties project  to "C:\" and extract it. You need to have two folders: “C:\Bounties” and “C:\Bounties_database”.
+Clone the Bounties_project  to "C:\" and extract it. You need to have two folders: “C:\Bounties” and “C:\Bounties_database”.
 
 ![setup](https://github.com/ValentaA/Bounties/assets/90060698/12942481-f046-4e16-88ea-ec6a28038328)
 
