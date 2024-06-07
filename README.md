@@ -1,6 +1,9 @@
 # Bounties
 Bug bounty management system
 
+![IMG_20240531_225717_HDR](https://github.com/ValentaA/Bounties/assets/90060698/53bd3263-928d-4f96-b776-5b601d22c056)
+
+
 
 
 
