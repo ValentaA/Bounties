@@ -62,6 +62,7 @@ Enjoy!
 
 
 Note: Bounties folder is made just for logs, screens and outputs from the tools like Gobuster, nmap etc.You can change that with the right click on Console/Console2 tab and then connect to remote locations like python web server and shared folders.
+You can use the same method to configure irc(Chat) and AI forms.
 
 ![loc](https://github.com/ValentaA/Bounties/assets/90060698/331b3105-dbfc-4a32-973c-1dd41acce239)
 
