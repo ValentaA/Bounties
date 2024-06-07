@@ -1,4 +1,5 @@
 Database Diagram:
+
 ![diagram4](https://github.com/ValentaA/Bounties/assets/90060698/09862042-74b2-4a70-9c82-76b76efe8ffd)
 
 Console 1:
